@@ -1,5 +1,0 @@
-pyautoit
-pyaudio
-mss
-pillow
-google-genai
